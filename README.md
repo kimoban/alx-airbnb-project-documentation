@@ -5,9 +5,9 @@ A full-stack web application that replicates the core functionality of Airbnb, a
 ## Features
 ### User Authentication & Registration
 
-**User Registration**: New users can create accounts using email or social media authentication  
-**Secure Login**: Multi-factor authentication support with social media integration  
-**Profile Management**: Users can update personal information and preferences
+   **User Registration**: New users can create accounts using email or social media authentication  
+   **Secure Login**: Multi-factor authentication support with social media integration  
+   **Profile Management**: Users can update personal information and preferences
 
 Property Management (Host Features)
 
